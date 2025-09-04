@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://adrianpostoaca.github.io/contabilitate-site/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
